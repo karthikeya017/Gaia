@@ -5,6 +5,7 @@ body
     background-size: cover;
     background-repeat: no-repeat;
     opacity:100px ;
+    cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32"><text y="26" font-size="26">🌍</text></svg>') 16 16, auto;
 }
 
 .compartments{
